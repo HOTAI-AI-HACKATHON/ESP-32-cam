@@ -1,0 +1,7 @@
+pre_image/
+after_image/
+history/
+results/
+__pycache__/
+*.pyc
+*.pyo
